@@ -1,0 +1,19 @@
+Mon Dec  9 00:58:50 2024 - Latência alta: 80.0 ms
+Mon Dec  9 00:59:00 2024 - Latência alta: 95.0 ms
+Mon Dec  9 00:59:15 2024 - Latência alta: 115.0 ms
+Mon Dec  9 00:59:20 2024 - Latência alta: 74.0 ms
+Mon Dec  9 00:59:26 2024 - Latência alta: 71.0 ms
+Mon Dec  9 00:59:36 2024 - Latência alta: 76.0 ms
+Mon Dec  9 00:59:41 2024 - Latência alta: 79.0 ms
+Mon Dec  9 00:59:46 2024 - Latência alta: 72.0 ms
+Mon Dec  9 00:59:56 2024 - Latência alta: 82.0 ms
+Mon Dec  9 01:00:01 2024 - Latência alta: 125.0 ms
+Mon Dec  9 01:00:06 2024 - Latência alta: 74.0 ms
+Mon Dec  9 01:00:11 2024 - Latência alta: 111.0 ms
+Mon Dec  9 01:00:27 2024 - Latência alta: 76.0 ms
+Mon Dec  9 01:00:37 2024 - Latência alta: 83.0 ms
+Mon Dec  9 01:00:42 2024 - Latência alta: 74.0 ms
+Mon Dec  9 01:00:57 2024 - Latência alta: 72.0 ms
+Mon Dec  9 01:01:02 2024 - Latência alta: 71.0 ms
+Mon Dec  9 01:01:16 2024 - Host 8.8.8.8 não está ativo
+Mon Dec  9 01:01:22 2024 - Latência alta: 160.0 ms
